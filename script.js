@@ -1,39 +1,60 @@
 let domande = [];
 let quiz = [];
 let current = 0;
+
 let score = 0;
 let errors = [];
+let exp = 0;
+let level = 1;
 
 let startTime;
-let answerTimes = [];
+let times = [];
 
 const chat = document.getElementById("chat");
 
-// carica domande
+// ================= LOAD =================
+
 fetch("domande.json")
 .then(r => r.json())
 .then(data => {
   domande = data;
-  showMenu();
+
+  loadProfile();
+  menu();
 });
+
+// ================= PROFILO =================
+
+function loadProfile(){
+  const savedLevel = localStorage.getItem("level");
+  const savedExp = localStorage.getItem("exp");
+
+  if(savedLevel) level = parseInt(savedLevel);
+  if(savedExp) exp = parseInt(savedExp);
+}
+
+function saveProfile(){
+  localStorage.setItem("level", level);
+  localStorage.setItem("exp", exp);
+}
 
 // ================= MENU =================
 
-function showMenu(){
+function menu(){
   chat.innerHTML = "";
 
-  bot("👋 Benvenuto nel simulatore Pegaso PRO");
-  bot("Scegli modalità:");
+  bot(`👋 Benvenuto<br>⭐ Livello: ${level}<br>⚡ EXP: ${exp}`);
 
   chat.innerHTML += `
   <div class="answers">
-    <button onclick="startExam()">🎓 Esame PRO (30 domande)</button>
+    <button onclick="startExam()">🎓 Esame Ultra (30 domande)</button>
     <button onclick="startStudy()">📚 Studio completo</button>
+    <button onclick="showStats()">📊 Statistiche</button>
   </div>
   `;
 }
 
-// ================= MODALITÀ =================
+// ================= MODES =================
 
 function startExam(){
   quiz = shuffle([...domande]).slice(0,30);
@@ -45,30 +66,32 @@ function startStudy(){
   start();
 }
 
+// ================= CORE =================
+
 function start(){
   current = 0;
   score = 0;
   errors = [];
-  answerTimes = [];
-  chat.innerHTML = "";
+  times = [];
   startTime = Date.now();
-  nextQuestion();
+  chat.innerHTML = "";
+  next();
 }
 
 // ================= CHAT =================
 
-function bot(text){
-  chat.innerHTML += `<div class="bot">${text}</div>`;
+function bot(t){
+  chat.innerHTML += `<div class="bot">${t}</div>`;
   chat.scrollTop = chat.scrollHeight;
 }
 
-function user(text){
-  chat.innerHTML += `<div class="user">${text}</div>`;
+function user(t){
+  chat.innerHTML += `<div class="user">${t}</div>`;
 }
 
-// ================= DOMANDE =================
+// ================= QUESTION =================
 
-function nextQuestion(){
+function next(){
 
   if(current >= quiz.length){
     finish();
@@ -90,45 +113,58 @@ function nextQuestion(){
   chat.innerHTML += html;
 }
 
-// ================= RISPOSTA =================
+// ================= ANSWER =================
 
 function answer(i){
 
   const d = quiz[current];
 
   const t = Date.now();
-  answerTimes.push(t);
+  times.push(t);
 
   user(d.a[i]);
 
   if(i === d.c){
     score++;
-    bot("✅ Corretto!<br><br>" + d.s);
+    exp += 10;
+    bot("✅ Corretto!");
   } else {
     errors.push(d);
-    bot("❌ Errato.<br><br>" + d.s);
+    exp += 2;
+    bot("❌ Errato<br><br>" + d.s);
   }
 
+  levelUp();
+
   current++;
-  setTimeout(nextQuestion, 600);
+  saveProfile();
+
+  setTimeout(next, 500);
 }
 
-// ================= FINE =================
+// ================= LEVEL SYSTEM =================
+
+function levelUp(){
+  const needed = level * 100;
+
+  if(exp >= needed){
+    level++;
+    bot(`🏆 LEVEL UP! Sei livello ${level}`);
+  }
+}
+
+// ================= FINISH =================
 
 function finish(){
 
-  const totalTime = (Date.now() - startTime)/1000;
-  const avgTime = (totalTime / quiz.length).toFixed(1);
+  const percent = Math.round((score/quiz.length)*100);
+  const vote = Math.round((score/quiz.length)*30);
 
-  const percent = Math.round((score / quiz.length) * 100);
-  const vote = Math.round((score / quiz.length) * 30);
-
-  let label = "";
-
-  if(vote < 18) label = "❌ Insufficiente";
-  else if(vote < 22) label = "✔ Sufficiente";
-  else if(vote < 27) label = "👍 Buono";
-  else label = "🏆 Eccellente";
+  let label =
+    vote < 18 ? "❌ Insufficiente" :
+    vote < 22 ? "✔ Sufficiente" :
+    vote < 27 ? "👍 Buono" :
+                "🏆 Eccellente";
 
   bot("🎉 ESAME COMPLETATO");
 
@@ -136,22 +172,38 @@ function finish(){
   📊 RISULTATI:<br><br>
   ✔ Corrette: ${score}<br>
   ❌ Errori: ${errors.length}<br>
-  📈 Percentuale: ${percent}%<br>
+  📈 %: ${percent}%<br>
   🎓 Voto: ${vote}/30<br>
-  🏷 Valutazione: <b>${label}</b><br>
-  ⏱ Tempo medio: ${avgTime}s
+  🏷 ${label}<br>
+  ⭐ Livello: ${level}<br>
+  ⚡ EXP: ${exp}
   `);
 
-  if(errors.length > 0){
-    chat.innerHTML += `
-    <div class="answers">
-      <button onclick="retryErrors()">🔁 Ripeti errori</button>
-      <button onclick="showMenu()">🏠 Menu</button>
-    </div>`;
-  }
+  chat.innerHTML += `
+  <div class="answers">
+    <button onclick="retryErrors()">🔁 Errori</button>
+    <button onclick="menu()">🏠 Menu</button>
+  </div>`;
 }
 
-// ================= RIPETI ERRORI =================
+// ================= STATS =================
+
+function showStats(){
+
+  bot(`
+  📊 STATISTICHE:<br><br>
+  ⭐ Livello: ${level}<br>
+  ⚡ EXP: ${exp}<br>
+  🎯 Prossimo livello: ${level*100} EXP
+  `);
+
+  chat.innerHTML += `
+  <div class="answers">
+    <button onclick="menu()">🏠 Menu</button>
+  </div>`;
+}
+
+// ================= RETRY =================
 
 function retryErrors(){
   quiz = errors;
@@ -159,12 +211,12 @@ function retryErrors(){
   score = 0;
   errors = [];
   chat.innerHTML = "";
-  bot("🔁 Ripetizione errori");
-  nextQuestion();
+  bot("🔁 Ripasso errori");
+  next();
 }
 
 // ================= UTILS =================
 
 function shuffle(a){
-  return a.sort(() => Math.random() - 0.5);
+  return a.sort(() => Math.random()-0.5);
 }
