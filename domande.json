@@ -1,0 +1,112 @@
+[
+  {
+    "q": "La media aritmetica di un insieme di dati è:",
+    "a": [
+      "La somma dei valori divisa per il numero di osservazioni",
+      "Il valore più frequente",
+      "Il valore centrale",
+      "La radice quadrata della varianza"
+    ],
+    "c": 0,
+    "s": "La media è la somma dei valori divisa per il numero di osservazioni."
+  },
+  {
+    "q": "La moda è:",
+    "a": [
+      "Il valore centrale",
+      "Il valore più frequente",
+      "La media dei dati",
+      "La differenza tra max e min"
+    ],
+    "c": 1,
+    "s": "La moda è il valore che compare più spesso."
+  },
+  {
+    "q": "La mediana di una serie ordinata è:",
+    "a": [
+      "Il valore massimo",
+      "Il valore minimo",
+      "Il valore centrale",
+      "La somma dei dati"
+    ],
+    "c": 2,
+    "s": "La mediana è il valore centrale della distribuzione ordinata."
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "La posizione centrale",
+      "La dispersione dei dati",
+      "La frequenza",
+      "La probabilità"
+    ],
+    "c": 1,
+    "s": "La varianza misura la dispersione dei dati."
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "La radice quadrata della varianza",
+      "La somma dei dati",
+      "La media",
+      "Il valore massimo"
+    ],
+    "c": 0,
+    "s": "La deviazione standard è la radice quadrata della varianza."
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "-1 e 1",
+      "0 e 1",
+      "0 e 100",
+      "-∞ e +∞"
+    ],
+    "c": 1,
+    "s": "La probabilità varia tra 0 e 1."
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "Una funzione che associa numeri agli esiti di un esperimento",
+      "Un grafico",
+      "Una media",
+      "Una tabella"
+    ],
+    "c": 0,
+    "s": "Una variabile casuale associa numeri agli esiti di un esperimento."
+  },
+  {
+    "q": "La distribuzione normale è:",
+    "a": [
+      "Asimmetrica",
+      "A campana",
+      "Uniforme",
+      "Casuale"
+    ],
+    "c": 1,
+    "s": "La distribuzione normale ha forma a campana."
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "Analizzare l'intera popolazione",
+      "Selezionare un sottoinsieme della popolazione",
+      "Calcolare la media",
+      "Trovare la moda"
+    ],
+    "c": 1,
+    "s": "Il campionamento seleziona un sottoinsieme della popolazione."
+  },
+  {
+    "q": "Un intervallo di confidenza indica:",
+    "a": [
+      "Un valore esatto",
+      "Un intervallo di valori plausibili per un parametro",
+      "La moda",
+      "La probabilità nulla"
+    ],
+    "c": 1,
+    "s": "L'intervallo di confidenza fornisce un range plausibile per un parametro."
+  }
+]
