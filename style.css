@@ -1,0 +1,46 @@
+body{
+  font-family:Arial;
+  background:#eef2f7;
+}
+
+.chat{
+  width:600px;
+  margin:20px auto;
+  background:white;
+  border-radius:12px;
+  overflow:hidden;
+}
+
+.header{
+  background:#0057b8;
+  color:white;
+  padding:15px;
+  text-align:center;
+}
+
+.messages{
+  padding:20px;
+}
+
+.bot{
+  background:#d9ecff;
+  padding:10px;
+  margin:8px 0;
+  border-radius:10px;
+}
+
+.user{
+  background:#0057b8;
+  color:white;
+  padding:10px;
+  margin:8px 0;
+  border-radius:10px;
+  text-align:right;
+}
+
+.answers button{
+  display:block;
+  width:100%;
+  margin:5px 0;
+  padding:10px;
+}
