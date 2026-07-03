@@ -2,10 +2,10 @@ let domande = [];
 let quiz = [];
 let current = 0;
 let score = 0;
+let errors = [];
 
-let mode = "exam"; // "exam" oppure "study"
-let timer;
-let timeLeft = 30;
+let startTime;
+let answerTimes = [];
 
 const chat = document.getElementById("chat");
 
@@ -14,32 +14,48 @@ fetch("domande.json")
 .then(r => r.json())
 .then(data => {
   domande = data;
-  startExam();
+  showMenu();
 });
 
-// ============ MODALITÀ ============
+// ================= MENU =================
+
+function showMenu(){
+  chat.innerHTML = "";
+
+  bot("👋 Benvenuto nel simulatore Pegaso PRO");
+  bot("Scegli modalità:");
+
+  chat.innerHTML += `
+  <div class="answers">
+    <button onclick="startExam()">🎓 Esame PRO (30 domande)</button>
+    <button onclick="startStudy()">📚 Studio completo</button>
+  </div>
+  `;
+}
+
+// ================= MODALITÀ =================
 
 function startExam(){
-  mode = "exam";
-  quiz = shuffle([...domande]).slice(0, 30); // 30 domande esame
-  current = 0;
-  score = 0;
-  chat.innerHTML = "";
-  bot("🎓 Modalità ESAME avviata (30 domande)");
-  nextQuestion();
+  quiz = shuffle([...domande]).slice(0,30);
+  start();
 }
 
 function startStudy(){
-  mode = "study";
   quiz = shuffle([...domande]);
+  start();
+}
+
+function start(){
   current = 0;
   score = 0;
+  errors = [];
+  answerTimes = [];
   chat.innerHTML = "";
-  bot("📚 Modalità STUDIO avviata");
+  startTime = Date.now();
   nextQuestion();
 }
 
-// ============ UI ============
+// ================= CHAT =================
 
 function bot(text){
   chat.innerHTML += `<div class="bot">${text}</div>`;
@@ -50,11 +66,9 @@ function user(text){
   chat.innerHTML += `<div class="user">${text}</div>`;
 }
 
-// ============ DOMANDE ============
+// ================= DOMANDE =================
 
 function nextQuestion(){
-
-  clearInterval(timer);
 
   if(current >= quiz.length){
     finish();
@@ -74,19 +88,16 @@ function nextQuestion(){
   html += `</div>`;
 
   chat.innerHTML += html;
-
-  if(mode === "exam"){
-    startTimer();
-  }
 }
 
-// ============ RISPOSTA ============
+// ================= RISPOSTA =================
 
 function answer(i){
 
-  clearInterval(timer);
-
   const d = quiz[current];
+
+  const t = Date.now();
+  answerTimes.push(t);
 
   user(d.a[i]);
 
@@ -94,63 +105,66 @@ function answer(i){
     score++;
     bot("✅ Corretto!<br><br>" + d.s);
   } else {
+    errors.push(d);
     bot("❌ Errato.<br><br>" + d.s);
   }
 
   current++;
-
-  setTimeout(nextQuestion, 800);
+  setTimeout(nextQuestion, 600);
 }
 
-// ============ TIMER ============
-
-function startTimer(){
-
-  timeLeft = 30;
-
-  bot("⏱ Tempo: 30 secondi");
-
-  timer = setInterval(() => {
-
-    timeLeft--;
-
-    if(timeLeft <= 0){
-      clearInterval(timer);
-      bot("⏰ Tempo scaduto!");
-      current++;
-      setTimeout(nextQuestion, 800);
-    }
-
-  }, 1000);
-}
-
-// ============ FINE ESAME ============
+// ================= FINE =================
 
 function finish(){
 
-  let percent = Math.round((score / quiz.length) * 100);
-  let vote = Math.round((score / quiz.length) * 30);
+  const totalTime = (Date.now() - startTime)/1000;
+  const avgTime = (totalTime / quiz.length).toFixed(1);
 
-  bot("🎉 ESAME TERMINATO");
-  bot(`📊 Risposte corrette: ${score}/${quiz.length}`);
-  bot(`📈 Percentuale: ${percent}%`);
-  bot(`🎓 Voto: ${vote}/30`);
+  const percent = Math.round((score / quiz.length) * 100);
+  const vote = Math.round((score / quiz.length) * 30);
+
+  let label = "";
+
+  if(vote < 18) label = "❌ Insufficiente";
+  else if(vote < 22) label = "✔ Sufficiente";
+  else if(vote < 27) label = "👍 Buono";
+  else label = "🏆 Eccellente";
+
+  bot("🎉 ESAME COMPLETATO");
+
+  bot(`
+  📊 RISULTATI:<br><br>
+  ✔ Corrette: ${score}<br>
+  ❌ Errori: ${errors.length}<br>
+  📈 Percentuale: ${percent}%<br>
+  🎓 Voto: ${vote}/30<br>
+  🏷 Valutazione: <b>${label}</b><br>
+  ⏱ Tempo medio: ${avgTime}s
+  `);
+
+  if(errors.length > 0){
+    chat.innerHTML += `
+    <div class="answers">
+      <button onclick="retryErrors()">🔁 Ripeti errori</button>
+      <button onclick="showMenu()">🏠 Menu</button>
+    </div>`;
+  }
 }
 
-// ============ UTILS ============
+// ================= RIPETI ERRORI =================
 
-function shuffle(array){
-  return array.sort(() => Math.random() - 0.5);
+function retryErrors(){
+  quiz = errors;
+  current = 0;
+  score = 0;
+  errors = [];
+  chat.innerHTML = "";
+  bot("🔁 Ripetizione errori");
+  nextQuestion();
 }
 
-// avvio automatico
-bot("👋 Benvenuto nel simulatore di Statistica Pegaso");
-bot("Premi sotto per iniziare");
+// ================= UTILS =================
 
-// bottoni modalità
-chat.innerHTML += `
-<div class="answers">
-  <button onclick="startExam()">🎓 Inizia Esame</button>
-  <button onclick="startStudy()">📚 Inizia Studio</button>
-</div>
-`;
+function shuffle(a){
+  return a.sort(() => Math.random() - 0.5);
+}
