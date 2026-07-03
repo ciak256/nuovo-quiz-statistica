@@ -1,28 +1,6 @@
 [
   {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
+    "q": "La moda del seguente insieme di dati è: 2,4,6,8",
     "a": [
       "valore più frequente",
       "media",
@@ -30,65 +8,10 @@
       "varianza"
     ],
     "c": 0,
-    "s": "il valore più frequente"
+    "s": "Concetto base di moda."
   },
   {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
-    "a": [
-      "valore più frequente",
-      "media",
-      "mediana",
-      "varianza"
-    ],
-    "c": 0,
-    "s": "il valore più frequente"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La deviazione standard è:",
+    "q": "La deviazione standard è: 5,5,6,7,8",
     "a": [
       "radice della varianza",
       "somma dati",
@@ -96,43 +19,131 @@
       "moda"
     ],
     "c": 0,
-    "s": "la radice quadrata della varianza"
+    "s": "Concetto base di deviazione standard."
   },
   {
-    "q": "La varianza misura:",
+    "q": "La varianza misura: 10,20,30,40",
     "a": [
       "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
     ],
     "c": 0,
-    "s": "la dispersione dei dati"
+    "s": "Concetto base di varianza."
   },
   {
-    "q": "La media aritmetica di 2,4,6,8 è:",
+    "q": "La moda del seguente insieme di dati è: 1,3,5,7,9",
     "a": [
-      "somma/numero",
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La regressione lineare studia: 100,200,300,400",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Calcola la media dei valori: 2,4,6,8",
+    "a": [
+      "somma/numero osservazioni",
       "valore massimo",
       "valore minimo",
       "frequenza"
     ],
     "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
+    "s": "Concetto base di media."
   },
   {
-    "q": "La varianza misura:",
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La varianza misura: 2,4,6,8",
     "a": [
       "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 5,5,6,7,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 100,200,300,400",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La varianza misura: 7,8,9,10",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La regressione lineare studia: 12,15,18,21",
+    "a": [
+      "relazione tra variabili",
       "media",
-      "probabilità",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Calcola la media dei valori: 10,20,30,40",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
       "frequenza"
     ],
     "c": 0,
-    "s": "la dispersione dei dati"
+    "s": "Concetto base di media."
   },
   {
-    "q": "La distribuzione normale ha forma:",
+    "q": "La distribuzione normale è: 3,3,3,4,5",
     "a": [
       "a campana",
       "uniforme",
@@ -140,54 +151,10 @@
       "asimmetrica"
     ],
     "c": 0,
-    "s": "a campana"
+    "s": "Concetto base di distribuzione normale."
   },
   {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "La deviazione standard è:",
+    "q": "La deviazione standard è: 10,20,30,40",
     "a": [
       "radice della varianza",
       "somma dati",
@@ -195,65 +162,43 @@
       "moda"
     ],
     "c": 0,
-    "s": "la radice quadrata della varianza"
+    "s": "Concetto base di deviazione standard."
   },
   {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "La varianza misura:",
+    "q": "La varianza misura: 3,3,3,4,5",
     "a": [
       "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
     ],
     "c": 0,
-    "s": "la dispersione dei dati"
+    "s": "Concetto base di varianza."
   },
   {
-    "q": "La probabilità è sempre compresa tra:",
+    "q": "La moda del seguente insieme di dati è: 1,3,5,7,9",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La distribuzione normale è: 1,3,5,7,9",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 3,3,3,4,5",
     "a": [
       "0 e 1",
       "0 e 100",
@@ -261,21 +206,43 @@
       "1 e 10"
     ],
     "c": 0,
-    "s": "0 e 1"
+    "s": "Concetto base di probabilità."
   },
   {
-    "q": "La deviazione standard è:",
+    "q": "La regressione lineare studia: 12,15,18,21",
     "a": [
-      "radice della varianza",
-      "somma dati",
+      "relazione tra variabili",
       "media",
-      "moda"
+      "moda",
+      "varianza"
     ],
     "c": 0,
-    "s": "la radice quadrata della varianza"
+    "s": "Concetto base di regressione."
   },
   {
-    "q": "La distribuzione normale ha forma:",
+    "q": "Calcola la media dei valori: 7,8,9,10",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 1,3,5,7,9",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La distribuzione normale è: 1,3,5,7,9",
     "a": [
       "a campana",
       "uniforme",
@@ -283,54 +250,43 @@
       "asimmetrica"
     ],
     "c": 0,
-    "s": "a campana"
+    "s": "Concetto base di distribuzione normale."
   },
   {
-    "q": "La varianza misura:",
+    "q": "Un intervallo di confidenza rappresenta: 12,15,18,21",
     "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
     ],
     "c": 0,
-    "s": "la dispersione dei dati"
+    "s": "Concetto base di intervallo di confidenza."
   },
   {
-    "q": "Il campionamento serve a:",
+    "q": "La regressione lineare studia: 3,3,3,4,5",
     "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
+      "relazione tra variabili",
       "media",
-      "moda"
+      "moda",
+      "varianza"
     ],
     "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
+    "s": "Concetto base di regressione."
   },
   {
-    "q": "La varianza misura:",
+    "q": "La regressione lineare studia: 5,5,6,7,8",
     "a": [
-      "dispersione dei dati",
+      "relazione tra variabili",
       "media",
-      "probabilità",
-      "frequenza"
+      "moda",
+      "varianza"
     ],
     "c": 0,
-    "s": "la dispersione dei dati"
+    "s": "Concetto base di regressione."
   },
   {
-    "q": "La deviazione standard è:",
-    "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "la radice quadrata della varianza"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
+    "q": "La moda del seguente insieme di dati è: 2,4,6,8",
     "a": [
       "valore più frequente",
       "media",
@@ -338,10 +294,54 @@
       "varianza"
     ],
     "c": 0,
-    "s": "il valore più frequente"
+    "s": "Concetto base di moda."
   },
   {
-    "q": "La probabilità è sempre compresa tra:",
+    "q": "La varianza misura: 12,15,18,21",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 100,200,300,400",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La deviazione standard è: 7,8,9,10",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 10,20,30,40",
     "a": [
       "0 e 1",
       "0 e 100",
@@ -349,153 +349,10 @@
       "1 e 10"
     ],
     "c": 0,
-    "s": "0 e 1"
+    "s": "Concetto base di probabilità."
   },
   {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "La deviazione standard è:",
-    "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "la radice quadrata della varianza"
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
-    "a": [
-      "valore più frequente",
-      "media",
-      "mediana",
-      "varianza"
-    ],
-    "c": 0,
-    "s": "il valore più frequente"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La probabilità è sempre compresa tra:",
+    "q": "La probabilità di un evento è sempre compresa tra: 3,3,3,4,5",
     "a": [
       "0 e 1",
       "0 e 100",
@@ -503,87 +360,21 @@
       "1 e 10"
     ],
     "c": 0,
-    "s": "0 e 1"
+    "s": "Concetto base di probabilità."
   },
   {
-    "q": "La deviazione standard è:",
+    "q": "La varianza misura: 12,15,18,21",
     "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
     ],
     "c": 0,
-    "s": "la radice quadrata della varianza"
+    "s": "Concetto base di varianza."
   },
   {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La deviazione standard è:",
-    "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "la radice quadrata della varianza"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
+    "q": "La moda del seguente insieme di dati è: 10,20,30,40",
     "a": [
       "valore più frequente",
       "media",
@@ -591,43 +382,32 @@
       "varianza"
     ],
     "c": 0,
-    "s": "il valore più frequente"
+    "s": "Concetto base di moda."
   },
   {
-    "q": "La media aritmetica di 2,4,6,8 è:",
+    "q": "Un intervallo di confidenza rappresenta: 5,5,6,7,8",
     "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
     ],
     "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
+    "s": "Concetto base di intervallo di confidenza."
   },
   {
-    "q": "Il campionamento serve a:",
+    "q": "La mediana della serie è: 7,8,9,10",
     "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
+      "valore centrale",
       "media",
-      "moda"
+      "moda",
+      "somma"
     ],
     "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
+    "s": "Concetto base di mediana."
   },
   {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
+    "q": "La distribuzione normale è: 12,15,18,21",
     "a": [
       "a campana",
       "uniforme",
@@ -635,21 +415,21 @@
       "asimmetrica"
     ],
     "c": 0,
-    "s": "a campana"
+    "s": "Concetto base di distribuzione normale."
   },
   {
-    "q": "La deviazione standard è:",
+    "q": "Un intervallo di confidenza rappresenta: 5,5,6,7,8",
     "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
     ],
     "c": 0,
-    "s": "la radice quadrata della varianza"
+    "s": "Concetto base di intervallo di confidenza."
   },
   {
-    "q": "La probabilità è sempre compresa tra:",
+    "q": "La probabilità di un evento è sempre compresa tra: 2,4,6,8",
     "a": [
       "0 e 1",
       "0 e 100",
@@ -657,120 +437,21 @@
       "1 e 10"
     ],
     "c": 0,
-    "s": "0 e 1"
+    "s": "Concetto base di probabilità."
   },
   {
-    "q": "La varianza misura:",
+    "q": "La varianza misura: 2,4,6,8",
     "a": [
       "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
     ],
     "c": 0,
-    "s": "la dispersione dei dati"
+    "s": "Concetto base di varianza."
   },
   {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "La deviazione standard è:",
-    "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "la radice quadrata della varianza"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La deviazione standard è:",
-    "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "la radice quadrata della varianza"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
-    "a": [
-      "valore più frequente",
-      "media",
-      "mediana",
-      "varianza"
-    ],
-    "c": 0,
-    "s": "il valore più frequente"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
-    "a": [
-      "valore più frequente",
-      "media",
-      "mediana",
-      "varianza"
-    ],
-    "c": 0,
-    "s": "il valore più frequente"
-  },
-  {
-    "q": "La deviazione standard è:",
-    "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "la radice quadrata della varianza"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "La probabilità è sempre compresa tra:",
+    "q": "La probabilità di un evento è sempre compresa tra: 100,200,300,400",
     "a": [
       "0 e 1",
       "0 e 100",
@@ -778,164 +459,10 @@
       "1 e 10"
     ],
     "c": 0,
-    "s": "0 e 1"
+    "s": "Concetto base di probabilità."
   },
   {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
-    "a": [
-      "valore più frequente",
-      "media",
-      "mediana",
-      "varianza"
-    ],
-    "c": 0,
-    "s": "il valore più frequente"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
-    "a": [
-      "valore più frequente",
-      "media",
-      "mediana",
-      "varianza"
-    ],
-    "c": 0,
-    "s": "il valore più frequente"
-  },
-  {
-    "q": "La probabilità è sempre compresa tra:",
-    "a": [
-      "0 e 1",
-      "0 e 100",
-      "-1 e 1",
-      "1 e 10"
-    ],
-    "c": 0,
-    "s": "0 e 1"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "La probabilità è sempre compresa tra:",
-    "a": [
-      "0 e 1",
-      "0 e 100",
-      "-1 e 1",
-      "1 e 10"
-    ],
-    "c": 0,
-    "s": "0 e 1"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La probabilità è sempre compresa tra:",
-    "a": [
-      "0 e 1",
-      "0 e 100",
-      "-1 e 1",
-      "1 e 10"
-    ],
-    "c": 0,
-    "s": "0 e 1"
-  },
-  {
-    "q": "La deviazione standard è:",
+    "q": "La deviazione standard è: 1,3,5,7,9",
     "a": [
       "radice della varianza",
       "somma dati",
@@ -943,21 +470,43 @@
       "moda"
     ],
     "c": 0,
-    "s": "la radice quadrata della varianza"
+    "s": "Concetto base di deviazione standard."
   },
   {
-    "q": "Il campionamento serve a:",
+    "q": "La varianza misura: 3,3,3,4,5",
     "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
     ],
     "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
+    "s": "Concetto base di varianza."
   },
   {
-    "q": "La mediana è:",
+    "q": "La varianza misura: 7,8,9,10",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La distribuzione normale è: 7,8,9,10",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La mediana della serie è: 12,15,18,21",
     "a": [
       "valore centrale",
       "media",
@@ -965,54 +514,54 @@
       "somma"
     ],
     "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
+    "s": "Concetto base di mediana."
   },
   {
-    "q": "La deviazione standard è:",
+    "q": "La mediana della serie è: 5,5,6,7,8",
     "a": [
-      "radice della varianza",
-      "somma dati",
+      "valore centrale",
       "media",
-      "moda"
+      "moda",
+      "somma"
     ],
     "c": 0,
-    "s": "la radice quadrata della varianza"
+    "s": "Concetto base di mediana."
   },
   {
-    "q": "Un intervallo di confidenza rappresenta:",
+    "q": "Un intervallo di confidenza rappresenta: 12,15,18,21",
     "a": [
       "range plausibile",
       "valore esatto",
-      "media",
-      "moda"
+      "moda",
+      "media"
     ],
     "c": 0,
-    "s": "un intervallo plausibile per un parametro"
+    "s": "Concetto base di intervallo di confidenza."
   },
   {
-    "q": "La media aritmetica di 2,4,6,8 è:",
+    "q": "La regressione lineare studia: 100,200,300,400",
     "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
+      "relazione tra variabili",
       "media",
-      "moda"
+      "moda",
+      "varianza"
     ],
     "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
+    "s": "Concetto base di regressione."
   },
   {
-    "q": "La probabilità è sempre compresa tra:",
+    "q": "La regressione lineare studia: 100,200,300,400",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 5,5,6,7,8",
     "a": [
       "0 e 1",
       "0 e 100",
@@ -1020,98 +569,10 @@
       "1 e 10"
     ],
     "c": 0,
-    "s": "0 e 1"
+    "s": "Concetto base di probabilità."
   },
   {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
-    "a": [
-      "valore più frequente",
-      "media",
-      "mediana",
-      "varianza"
-    ],
-    "c": 0,
-    "s": "il valore più frequente"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "La mediana è:",
+    "q": "La mediana della serie è: 7,8,9,10",
     "a": [
       "valore centrale",
       "media",
@@ -1119,21 +580,10 @@
       "somma"
     ],
     "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
+    "s": "Concetto base di mediana."
   },
   {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
+    "q": "La moda del seguente insieme di dati è: 2,4,6,8",
     "a": [
       "valore più frequente",
       "media",
@@ -1141,10 +591,98 @@
       "varianza"
     ],
     "c": 0,
-    "s": "il valore più frequente"
+    "s": "Concetto base di moda."
   },
   {
-    "q": "La probabilità è sempre compresa tra:",
+    "q": "La moda del seguente insieme di dati è: 10,20,30,40",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La mediana della serie è: 100,200,300,400",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La regressione lineare studia: 1,3,5,7,9",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La distribuzione normale è: 100,200,300,400",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La regressione lineare studia: 7,8,9,10",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 12,15,18,21",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 2,4,6,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 12,15,18,21",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 1,3,5,7,9",
     "a": [
       "0 e 1",
       "0 e 100",
@@ -1152,32 +690,21 @@
       "1 e 10"
     ],
     "c": 0,
-    "s": "0 e 1"
+    "s": "Concetto base di probabilità."
   },
   {
-    "q": "La moda di un insieme di dati rappresenta:",
+    "q": "La deviazione standard è: 100,200,300,400",
     "a": [
-      "valore più frequente",
+      "radice della varianza",
+      "somma dati",
       "media",
-      "mediana",
-      "varianza"
+      "moda"
     ],
     "c": 0,
-    "s": "il valore più frequente"
+    "s": "Concetto base di deviazione standard."
   },
   {
-    "q": "La moda di un insieme di dati rappresenta:",
-    "a": [
-      "valore più frequente",
-      "media",
-      "mediana",
-      "varianza"
-    ],
-    "c": 0,
-    "s": "il valore più frequente"
-  },
-  {
-    "q": "La mediana è:",
+    "q": "La mediana della serie è: 7,8,9,10",
     "a": [
       "valore centrale",
       "media",
@@ -1185,10 +712,219 @@
       "somma"
     ],
     "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
+    "s": "Concetto base di mediana."
   },
   {
-    "q": "La probabilità è sempre compresa tra:",
+    "q": "Calcola la media dei valori: 12,15,18,21",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 10,20,30,40",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 1,3,5,7,9",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La deviazione standard è: 5,5,6,7,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La mediana della serie è: 3,3,3,4,5",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La mediana della serie è: 2,4,6,8",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La regressione lineare studia: 3,3,3,4,5",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Il campionamento serve a: 2,4,6,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 3,3,3,4,5",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La deviazione standard è: 5,5,6,7,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Calcola la media dei valori: 5,5,6,7,8",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La regressione lineare studia: 1,3,5,7,9",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 7,8,9,10",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 10,20,30,40",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La mediana della serie è: 7,8,9,10",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 10,20,30,40",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La deviazione standard è: 100,200,300,400",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La varianza misura: 5,5,6,7,8",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La deviazione standard è: 100,200,300,400",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 7,8,9,10",
     "a": [
       "0 e 1",
       "0 e 100",
@@ -1196,43 +932,21 @@
       "1 e 10"
     ],
     "c": 0,
-    "s": "0 e 1"
+    "s": "Concetto base di probabilità."
   },
   {
-    "q": "Un intervallo di confidenza rappresenta:",
+    "q": "Un intervallo di confidenza rappresenta: 7,8,9,10",
     "a": [
       "range plausibile",
       "valore esatto",
-      "media",
-      "moda"
+      "moda",
+      "media"
     ],
     "c": 0,
-    "s": "un intervallo plausibile per un parametro"
+    "s": "Concetto base di intervallo di confidenza."
   },
   {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
     "a": [
       "valore più frequente",
       "media",
@@ -1240,54 +954,21 @@
       "varianza"
     ],
     "c": 0,
-    "s": "il valore più frequente"
+    "s": "Concetto base di moda."
   },
   {
-    "q": "La distribuzione normale ha forma:",
+    "q": "La varianza misura: 1,3,5,7,9",
     "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
     ],
     "c": 0,
-    "s": "a campana"
+    "s": "Concetto base di varianza."
   },
   {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "La deviazione standard è:",
-    "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "la radice quadrata della varianza"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "La probabilità è sempre compresa tra:",
+    "q": "La probabilità di un evento è sempre compresa tra: 2,4,6,8",
     "a": [
       "0 e 1",
       "0 e 100",
@@ -1295,43 +976,54 @@
       "1 e 10"
     ],
     "c": 0,
-    "s": "0 e 1"
+    "s": "Concetto base di probabilità."
   },
   {
-    "q": "La distribuzione normale ha forma:",
+    "q": "La regressione lineare studia: 5,5,6,7,8",
     "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
+      "relazione tra variabili",
       "media",
       "moda",
-      "somma"
+      "varianza"
     ],
     "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
+    "s": "Concetto base di regressione."
   },
   {
-    "q": "La mediana è:",
+    "q": "La regressione lineare studia: 5,5,6,7,8",
     "a": [
-      "valore centrale",
+      "relazione tra variabili",
       "media",
       "moda",
-      "somma"
+      "varianza"
     ],
     "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
+    "s": "Concetto base di regressione."
   },
   {
-    "q": "La moda di un insieme di dati rappresenta:",
+    "q": "Calcola la media dei valori: 1,3,5,7,9",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "Calcola la media dei valori: 5,5,6,7,8",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 2,4,6,8",
     "a": [
       "valore più frequente",
       "media",
@@ -1339,549 +1031,10 @@
       "varianza"
     ],
     "c": 0,
-    "s": "il valore più frequente"
+    "s": "Concetto base di moda."
   },
   {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
-    "a": [
-      "valore più frequente",
-      "media",
-      "mediana",
-      "varianza"
-    ],
-    "c": 0,
-    "s": "il valore più frequente"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "Il campionamento serve a:",
-    "a": [
-      "sottoinsieme popolazione",
-      "intera popolazione",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
-  },
-  {
-    "q": "La mediana è:",
-    "a": [
-      "valore centrale",
-      "media",
-      "moda",
-      "somma"
-    ],
-    "c": 0,
-    "s": "il valore centrale di una distribuzione ordinata"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "La probabilità è sempre compresa tra:",
+    "q": "La probabilità di un evento è sempre compresa tra: 1,3,5,7,9",
     "a": [
       "0 e 1",
       "0 e 100",
@@ -1889,54 +1042,21 @@
       "1 e 10"
     ],
     "c": 0,
-    "s": "0 e 1"
+    "s": "Concetto base di probabilità."
   },
   {
-    "q": "La distribuzione normale ha forma:",
+    "q": "Un intervallo di confidenza rappresenta: 5,5,6,7,8",
     "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
-    "a": [
-      "a campana",
-      "uniforme",
-      "casuale",
-      "asimmetrica"
-    ],
-    "c": 0,
-    "s": "a campana"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
+      "range plausibile",
+      "valore esatto",
+      "moda",
       "media"
     ],
     "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
+    "s": "Concetto base di intervallo di confidenza."
   },
   {
-    "q": "La deviazione standard è:",
+    "q": "La deviazione standard è: 7,8,9,10",
     "a": [
       "radice della varianza",
       "somma dati",
@@ -1944,10 +1064,43 @@
       "moda"
     ],
     "c": 0,
-    "s": "la radice quadrata della varianza"
+    "s": "Concetto base di deviazione standard."
   },
   {
-    "q": "La distribuzione normale ha forma:",
+    "q": "La varianza misura: 10,20,30,40",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La regressione lineare studia: 7,8,9,10",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La varianza misura: 7,8,9,10",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La distribuzione normale è: 5,5,6,7,8",
     "a": [
       "a campana",
       "uniforme",
@@ -1955,65 +1108,54 @@
       "asimmetrica"
     ],
     "c": 0,
-    "s": "a campana"
+    "s": "Concetto base di distribuzione normale."
   },
   {
-    "q": "Un intervallo di confidenza rappresenta:",
+    "q": "La moda del seguente insieme di dati è: 1,3,5,7,9",
     "a": [
-      "range plausibile",
-      "valore esatto",
+      "valore più frequente",
       "media",
-      "moda"
+      "mediana",
+      "varianza"
     ],
     "c": 0,
-    "s": "un intervallo plausibile per un parametro"
+    "s": "Concetto base di moda."
   },
   {
-    "q": "Il campionamento serve a:",
+    "q": "La distribuzione normale è: 3,3,3,4,5",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La distribuzione normale è: 100,200,300,400",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Il campionamento serve a: 2,4,6,8",
     "a": [
       "sottoinsieme popolazione",
       "intera popolazione",
       "media",
-      "moda"
+      "varianza"
     ],
     "c": 0,
-    "s": "selezionare un sottoinsieme della popolazione"
+    "s": "Concetto base di campionamento."
   },
   {
-    "q": "La deviazione standard è:",
-    "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "la radice quadrata della varianza"
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "dispersione dei dati",
-      "media",
-      "probabilità",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "la dispersione dei dati"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
+    "q": "La moda del seguente insieme di dati è: 2,4,6,8",
     "a": [
       "valore più frequente",
       "media",
@@ -2021,120 +1163,10 @@
       "varianza"
     ],
     "c": 0,
-    "s": "il valore più frequente"
+    "s": "Concetto base di moda."
   },
   {
-    "q": "La deviazione standard è:",
-    "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "la radice quadrata della varianza"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "Un intervallo di confidenza rappresenta:",
-    "a": [
-      "range plausibile",
-      "valore esatto",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "un intervallo plausibile per un parametro"
-  },
-  {
-    "q": "Una variabile casuale è:",
-    "a": [
-      "funzione esiti",
-      "grafico",
-      "tabella",
-      "media"
-    ],
-    "c": 0,
-    "s": "una funzione che associa numeri agli esiti di un esperimento"
-  },
-  {
-    "q": "La deviazione standard è:",
-    "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "la radice quadrata della varianza"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
-    "a": [
-      "valore più frequente",
-      "media",
-      "mediana",
-      "varianza"
-    ],
-    "c": 0,
-    "s": "il valore più frequente"
-  },
-  {
-    "q": "La deviazione standard è:",
-    "a": [
-      "radice della varianza",
-      "somma dati",
-      "media",
-      "moda"
-    ],
-    "c": 0,
-    "s": "la radice quadrata della varianza"
-  },
-  {
-    "q": "La moda di un insieme di dati rappresenta:",
-    "a": [
-      "valore più frequente",
-      "media",
-      "mediana",
-      "varianza"
-    ],
-    "c": 0,
-    "s": "il valore più frequente"
-  },
-  {
-    "q": "La media aritmetica di 2,4,6,8 è:",
-    "a": [
-      "somma/numero",
-      "valore massimo",
-      "valore minimo",
-      "frequenza"
-    ],
-    "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
-  },
-  {
-    "q": "La distribuzione normale ha forma:",
+    "q": "La distribuzione normale è: 3,3,3,4,5",
     "a": [
       "a campana",
       "uniforme",
@@ -2142,54 +1174,241 @@
       "asimmetrica"
     ],
     "c": 0,
-    "s": "a campana"
+    "s": "Concetto base di distribuzione normale."
   },
   {
-    "q": "La varianza misura:",
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
     "a": [
-      "dispersione dei dati",
+      "valore più frequente",
       "media",
-      "probabilità",
-      "frequenza"
+      "mediana",
+      "varianza"
     ],
     "c": 0,
-    "s": "la dispersione dei dati"
+    "s": "Concetto base di moda."
   },
   {
-    "q": "La media aritmetica di 2,4,6,8 è:",
+    "q": "La varianza misura: 5,5,6,7,8",
     "a": [
-      "somma/numero",
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 7,8,9,10",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La mediana della serie è: 100,200,300,400",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La mediana della serie è: 12,15,18,21",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Il campionamento serve a: 5,5,6,7,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 7,8,9,10",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 1,3,5,7,9",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Calcola la media dei valori: 2,4,6,8",
+    "a": [
+      "somma/numero osservazioni",
       "valore massimo",
       "valore minimo",
       "frequenza"
     ],
     "c": 0,
-    "s": "somma dei valori divisa per il numero di osservazioni"
+    "s": "Concetto base di media."
   },
   {
-    "q": "La varianza misura:",
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La mediana della serie è: 100,200,300,400",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Il campionamento serve a: 7,8,9,10",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La varianza misura: 100,200,300,400",
     "a": [
       "dispersione dei dati",
-      "media",
-      "probabilità",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Calcola la media dei valori: 10,20,30,40",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
       "frequenza"
     ],
     "c": 0,
-    "s": "la dispersione dei dati"
+    "s": "Concetto base di media."
   },
   {
-    "q": "Un intervallo di confidenza rappresenta:",
+    "q": "La distribuzione normale è: 2,4,6,8",
     "a": [
-      "range plausibile",
-      "valore esatto",
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La distribuzione normale è: 12,15,18,21",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Il campionamento serve a: 12,15,18,21",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La distribuzione normale è: 7,8,9,10",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La mediana della serie è: 5,5,6,7,8",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La deviazione standard è: 5,5,6,7,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
       "media",
       "moda"
     ],
     "c": 0,
-    "s": "un intervallo plausibile per un parametro"
+    "s": "Concetto base di deviazione standard."
   },
   {
-    "q": "La probabilità è sempre compresa tra:",
+    "q": "Calcola la media dei valori: 2,4,6,8",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 2,4,6,8",
     "a": [
       "0 e 1",
       "0 e 100",
@@ -2197,6 +1416,4087 @@
       "1 e 10"
     ],
     "c": 0,
-    "s": "0 e 1"
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "Calcola la media dei valori: 7,8,9,10",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 10,20,30,40",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Calcola la media dei valori: 1,3,5,7,9",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La mediana della serie è: 1,3,5,7,9",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La regressione lineare studia: 1,3,5,7,9",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La varianza misura: 100,200,300,400",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La regressione lineare studia: 2,4,6,8",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La regressione lineare studia: 1,3,5,7,9",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La distribuzione normale è: 3,3,3,4,5",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La deviazione standard è: 5,5,6,7,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 5,5,6,7,8",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La deviazione standard è: 100,200,300,400",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La mediana della serie è: 12,15,18,21",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Il campionamento serve a: 3,3,3,4,5",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 2,4,6,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "Il campionamento serve a: 1,3,5,7,9",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 12,15,18,21",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La mediana della serie è: 3,3,3,4,5",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 12,15,18,21",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La mediana della serie è: 7,8,9,10",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 12,15,18,21",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La regressione lineare studia: 2,4,6,8",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 12,15,18,21",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 10,20,30,40",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La deviazione standard è: 1,3,5,7,9",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 10,20,30,40",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La deviazione standard è: 12,15,18,21",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La regressione lineare studia: 5,5,6,7,8",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 5,5,6,7,8",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La deviazione standard è: 7,8,9,10",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La deviazione standard è: 2,4,6,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 100,200,300,400",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La deviazione standard è: 2,4,6,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Calcola la media dei valori: 3,3,3,4,5",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La mediana della serie è: 12,15,18,21",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La mediana della serie è: 7,8,9,10",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 100,200,300,400",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 2,4,6,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 1,3,5,7,9",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La mediana della serie è: 2,4,6,8",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 10,20,30,40",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La distribuzione normale è: 10,20,30,40",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Calcola la media dei valori: 12,15,18,21",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 2,4,6,8",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 5,5,6,7,8",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La varianza misura: 1,3,5,7,9",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 100,200,300,400",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La regressione lineare studia: 10,20,30,40",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La varianza misura: 10,20,30,40",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La mediana della serie è: 100,200,300,400",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Calcola la media dei valori: 10,20,30,40",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 100,200,300,400",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La varianza misura: 12,15,18,21",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La mediana della serie è: 1,3,5,7,9",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La distribuzione normale è: 2,4,6,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Il campionamento serve a: 5,5,6,7,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La varianza misura: 7,8,9,10",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 12,15,18,21",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La varianza misura: 5,5,6,7,8",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Calcola la media dei valori: 5,5,6,7,8",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La distribuzione normale è: 3,3,3,4,5",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La deviazione standard è: 1,3,5,7,9",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La deviazione standard è: 3,3,3,4,5",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 100,200,300,400",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 3,3,3,4,5",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Calcola la media dei valori: 1,3,5,7,9",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La deviazione standard è: 10,20,30,40",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La regressione lineare studia: 12,15,18,21",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Calcola la media dei valori: 1,3,5,7,9",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La regressione lineare studia: 100,200,300,400",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 3,3,3,4,5",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La distribuzione normale è: 1,3,5,7,9",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La distribuzione normale è: 5,5,6,7,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La deviazione standard è: 2,4,6,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La distribuzione normale è: 2,4,6,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 5,5,6,7,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 100,200,300,400",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 3,3,3,4,5",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La regressione lineare studia: 3,3,3,4,5",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 12,15,18,21",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 12,15,18,21",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La distribuzione normale è: 3,3,3,4,5",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La distribuzione normale è: 12,15,18,21",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 10,20,30,40",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La varianza misura: 100,200,300,400",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La distribuzione normale è: 10,20,30,40",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La regressione lineare studia: 12,15,18,21",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La distribuzione normale è: 2,4,6,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La deviazione standard è: 12,15,18,21",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La varianza misura: 100,200,300,400",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La regressione lineare studia: 3,3,3,4,5",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Il campionamento serve a: 7,8,9,10",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Il campionamento serve a: 5,5,6,7,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 7,8,9,10",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La mediana della serie è: 1,3,5,7,9",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La deviazione standard è: 3,3,3,4,5",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La deviazione standard è: 5,5,6,7,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La varianza misura: 10,20,30,40",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Calcola la media dei valori: 2,4,6,8",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La varianza misura: 7,8,9,10",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La regressione lineare studia: 1,3,5,7,9",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Il campionamento serve a: 100,200,300,400",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La regressione lineare studia: 5,5,6,7,8",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La distribuzione normale è: 7,8,9,10",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La distribuzione normale è: 5,5,6,7,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La mediana della serie è: 2,4,6,8",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 100,200,300,400",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La varianza misura: 10,20,30,40",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 7,8,9,10",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Calcola la media dei valori: 5,5,6,7,8",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 7,8,9,10",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La mediana della serie è: 7,8,9,10",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 3,3,3,4,5",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Il campionamento serve a: 100,200,300,400",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 7,8,9,10",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La mediana della serie è: 7,8,9,10",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Il campionamento serve a: 12,15,18,21",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La varianza misura: 12,15,18,21",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 7,8,9,10",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La varianza misura: 12,15,18,21",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Il campionamento serve a: 1,3,5,7,9",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La deviazione standard è: 5,5,6,7,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La deviazione standard è: 3,3,3,4,5",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 1,3,5,7,9",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La mediana della serie è: 10,20,30,40",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La varianza misura: 100,200,300,400",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La mediana della serie è: 5,5,6,7,8",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 100,200,300,400",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La distribuzione normale è: 3,3,3,4,5",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 7,8,9,10",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La distribuzione normale è: 2,4,6,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La varianza misura: 100,200,300,400",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La distribuzione normale è: 2,4,6,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La regressione lineare studia: 100,200,300,400",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Il campionamento serve a: 2,4,6,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 12,15,18,21",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La distribuzione normale è: 100,200,300,400",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 5,5,6,7,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Il campionamento serve a: 5,5,6,7,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La deviazione standard è: 100,200,300,400",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Il campionamento serve a: 2,4,6,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La distribuzione normale è: 3,3,3,4,5",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La distribuzione normale è: 10,20,30,40",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Il campionamento serve a: 10,20,30,40",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La regressione lineare studia: 2,4,6,8",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La distribuzione normale è: 2,4,6,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 100,200,300,400",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La mediana della serie è: 7,8,9,10",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La mediana della serie è: 2,4,6,8",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La deviazione standard è: 100,200,300,400",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 5,5,6,7,8",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "Il campionamento serve a: 3,3,3,4,5",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 100,200,300,400",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La deviazione standard è: 100,200,300,400",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La deviazione standard è: 1,3,5,7,9",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Il campionamento serve a: 2,4,6,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 2,4,6,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 5,5,6,7,8",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 2,4,6,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "Calcola la media dei valori: 5,5,6,7,8",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La varianza misura: 2,4,6,8",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La regressione lineare studia: 10,20,30,40",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La varianza misura: 10,20,30,40",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Il campionamento serve a: 1,3,5,7,9",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La regressione lineare studia: 5,5,6,7,8",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Il campionamento serve a: 12,15,18,21",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 10,20,30,40",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La regressione lineare studia: 1,3,5,7,9",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La mediana della serie è: 12,15,18,21",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 2,4,6,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La deviazione standard è: 100,200,300,400",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La distribuzione normale è: 5,5,6,7,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 12,15,18,21",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La regressione lineare studia: 1,3,5,7,9",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La regressione lineare studia: 2,4,6,8",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 100,200,300,400",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 1,3,5,7,9",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 3,3,3,4,5",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Calcola la media dei valori: 100,200,300,400",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "Il campionamento serve a: 1,3,5,7,9",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La distribuzione normale è: 3,3,3,4,5",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Il campionamento serve a: 10,20,30,40",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La distribuzione normale è: 10,20,30,40",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 12,15,18,21",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La regressione lineare studia: 7,8,9,10",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Il campionamento serve a: 100,200,300,400",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La regressione lineare studia: 12,15,18,21",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 5,5,6,7,8",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 12,15,18,21",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "Il campionamento serve a: 5,5,6,7,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Il campionamento serve a: 100,200,300,400",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 2,4,6,8",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "Il campionamento serve a: 3,3,3,4,5",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La mediana della serie è: 7,8,9,10",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La varianza misura: 3,3,3,4,5",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La deviazione standard è: 3,3,3,4,5",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La deviazione standard è: 12,15,18,21",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 2,4,6,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 5,5,6,7,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La distribuzione normale è: 7,8,9,10",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 5,5,6,7,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Il campionamento serve a: 7,8,9,10",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Il campionamento serve a: 2,4,6,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 12,15,18,21",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La varianza misura: 100,200,300,400",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La varianza misura: 12,15,18,21",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La regressione lineare studia: 3,3,3,4,5",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Il campionamento serve a: 3,3,3,4,5",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La distribuzione normale è: 3,3,3,4,5",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 7,8,9,10",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La deviazione standard è: 12,15,18,21",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La deviazione standard è: 5,5,6,7,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 1,3,5,7,9",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 10,20,30,40",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La varianza misura: 5,5,6,7,8",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Il campionamento serve a: 12,15,18,21",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La regressione lineare studia: 12,15,18,21",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La deviazione standard è: 5,5,6,7,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 10,20,30,40",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La deviazione standard è: 2,4,6,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 10,20,30,40",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La deviazione standard è: 2,4,6,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Calcola la media dei valori: 12,15,18,21",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La mediana della serie è: 7,8,9,10",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 2,4,6,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La regressione lineare studia: 12,15,18,21",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Il campionamento serve a: 7,8,9,10",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Il campionamento serve a: 3,3,3,4,5",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La mediana della serie è: 2,4,6,8",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La deviazione standard è: 7,8,9,10",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 1,3,5,7,9",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La distribuzione normale è: 7,8,9,10",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 2,4,6,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La mediana della serie è: 10,20,30,40",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La regressione lineare studia: 12,15,18,21",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 100,200,300,400",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La regressione lineare studia: 5,5,6,7,8",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 100,200,300,400",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Il campionamento serve a: 7,8,9,10",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La deviazione standard è: 100,200,300,400",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La deviazione standard è: 2,4,6,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La regressione lineare studia: 1,3,5,7,9",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La varianza misura: 5,5,6,7,8",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La deviazione standard è: 1,3,5,7,9",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La mediana della serie è: 5,5,6,7,8",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La mediana della serie è: 1,3,5,7,9",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La mediana della serie è: 2,4,6,8",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La distribuzione normale è: 7,8,9,10",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La regressione lineare studia: 7,8,9,10",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La deviazione standard è: 2,4,6,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La varianza misura: 12,15,18,21",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La deviazione standard è: 7,8,9,10",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La deviazione standard è: 5,5,6,7,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La distribuzione normale è: 1,3,5,7,9",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 5,5,6,7,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La mediana della serie è: 12,15,18,21",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La mediana della serie è: 1,3,5,7,9",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Calcola la media dei valori: 10,20,30,40",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La deviazione standard è: 12,15,18,21",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Il campionamento serve a: 1,3,5,7,9",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Il campionamento serve a: 12,15,18,21",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La distribuzione normale è: 12,15,18,21",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 7,8,9,10",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Il campionamento serve a: 1,3,5,7,9",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La regressione lineare studia: 2,4,6,8",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La distribuzione normale è: 3,3,3,4,5",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La regressione lineare studia: 12,15,18,21",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Calcola la media dei valori: 1,3,5,7,9",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La varianza misura: 2,4,6,8",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La deviazione standard è: 2,4,6,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La mediana della serie è: 7,8,9,10",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 7,8,9,10",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La deviazione standard è: 10,20,30,40",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La regressione lineare studia: 100,200,300,400",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Il campionamento serve a: 1,3,5,7,9",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Il campionamento serve a: 3,3,3,4,5",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La distribuzione normale è: 3,3,3,4,5",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 1,3,5,7,9",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La mediana della serie è: 3,3,3,4,5",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La distribuzione normale è: 7,8,9,10",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La deviazione standard è: 100,200,300,400",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 2,4,6,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Il campionamento serve a: 1,3,5,7,9",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 12,15,18,21",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 1,3,5,7,9",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La distribuzione normale è: 2,4,6,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 7,8,9,10",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La distribuzione normale è: 2,4,6,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La varianza misura: 3,3,3,4,5",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La regressione lineare studia: 7,8,9,10",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Il campionamento serve a: 2,4,6,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La varianza misura: 12,15,18,21",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 10,20,30,40",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La deviazione standard è: 7,8,9,10",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Il campionamento serve a: 1,3,5,7,9",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Calcola la media dei valori: 5,5,6,7,8",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La mediana della serie è: 12,15,18,21",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 2,4,6,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 100,200,300,400",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 5,5,6,7,8",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 7,8,9,10",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 10,20,30,40",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "Il campionamento serve a: 12,15,18,21",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 12,15,18,21",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La distribuzione normale è: 7,8,9,10",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Il campionamento serve a: 5,5,6,7,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Il campionamento serve a: 10,20,30,40",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La distribuzione normale è: 5,5,6,7,8",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La regressione lineare studia: 10,20,30,40",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 12,15,18,21",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La distribuzione normale è: 3,3,3,4,5",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 12,15,18,21",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Calcola la media dei valori: 12,15,18,21",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La deviazione standard è: 7,8,9,10",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La mediana della serie è: 7,8,9,10",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 7,8,9,10",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 3,3,3,4,5",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 100,200,300,400",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "Il campionamento serve a: 3,3,3,4,5",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La varianza misura: 5,5,6,7,8",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La regressione lineare studia: 100,200,300,400",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La varianza misura: 100,200,300,400",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "Calcola la media dei valori: 3,3,3,4,5",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "Il campionamento serve a: 100,200,300,400",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La distribuzione normale è: 10,20,30,40",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "Il campionamento serve a: 2,4,6,8",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La mediana della serie è: 3,3,3,4,5",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 7,8,9,10",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 7,8,9,10",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "Calcola la media dei valori: 10,20,30,40",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La distribuzione normale è: 10,20,30,40",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 7,8,9,10",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La deviazione standard è: 3,3,3,4,5",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La regressione lineare studia: 100,200,300,400",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 3,3,3,4,5",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 100,200,300,400",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 7,8,9,10",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 2,4,6,8",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La regressione lineare studia: 1,3,5,7,9",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La varianza misura: 12,15,18,21",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La varianza misura: 1,3,5,7,9",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La distribuzione normale è: 1,3,5,7,9",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "Concetto base di distribuzione normale."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 7,8,9,10",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La mediana della serie è: 12,15,18,21",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Calcola la media dei valori: 2,4,6,8",
+    "a": [
+      "somma/numero osservazioni",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "Concetto base di media."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 2,4,6,8",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La deviazione standard è: 3,3,3,4,5",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La probabilità di un evento è sempre compresa tra: 100,200,300,400",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "Concetto base di probabilità."
+  },
+  {
+    "q": "La mediana della serie è: 5,5,6,7,8",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 100,200,300,400",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La regressione lineare studia: 10,20,30,40",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "La mediana della serie è: 10,20,30,40",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "Concetto base di mediana."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 100,200,300,400",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
+  },
+  {
+    "q": "La regressione lineare studia: 5,5,6,7,8",
+    "a": [
+      "relazione tra variabili",
+      "media",
+      "moda",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di regressione."
+  },
+  {
+    "q": "Il campionamento serve a: 10,20,30,40",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "La varianza misura: 7,8,9,10",
+    "a": [
+      "dispersione dei dati",
+      "posizione centrale",
+      "frequenza",
+      "probabilità"
+    ],
+    "c": 0,
+    "s": "Concetto base di varianza."
+  },
+  {
+    "q": "La deviazione standard è: 7,8,9,10",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "La deviazione standard è: 2,4,6,8",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "Concetto base di deviazione standard."
+  },
+  {
+    "q": "Il campionamento serve a: 12,15,18,21",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di campionamento."
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta: 10,20,30,40",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "moda",
+      "media"
+    ],
+    "c": 0,
+    "s": "Concetto base di intervallo di confidenza."
+  },
+  {
+    "q": "La moda del seguente insieme di dati è: 7,8,9,10",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "Concetto base di moda."
   }
 ]
