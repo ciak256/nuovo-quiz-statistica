@@ -1,112 +1,2202 @@
 [
   {
-    "q": "La media aritmetica di un insieme di dati è:",
-    "a": [
-      "La somma dei valori divisa per il numero di osservazioni",
-      "Il valore più frequente",
-      "Il valore centrale",
-      "La radice quadrata della varianza"
-    ],
-    "c": 0,
-    "s": "La media è la somma dei valori divisa per il numero di osservazioni."
-  },
-  {
-    "q": "La moda è:",
-    "a": [
-      "Il valore centrale",
-      "Il valore più frequente",
-      "La media dei dati",
-      "La differenza tra max e min"
-    ],
-    "c": 1,
-    "s": "La moda è il valore che compare più spesso."
-  },
-  {
-    "q": "La mediana di una serie ordinata è:",
-    "a": [
-      "Il valore massimo",
-      "Il valore minimo",
-      "Il valore centrale",
-      "La somma dei dati"
-    ],
-    "c": 2,
-    "s": "La mediana è il valore centrale della distribuzione ordinata."
-  },
-  {
-    "q": "La varianza misura:",
-    "a": [
-      "La posizione centrale",
-      "La dispersione dei dati",
-      "La frequenza",
-      "La probabilità"
-    ],
-    "c": 1,
-    "s": "La varianza misura la dispersione dei dati."
-  },
-  {
-    "q": "La deviazione standard è:",
-    "a": [
-      "La radice quadrata della varianza",
-      "La somma dei dati",
-      "La media",
-      "Il valore massimo"
-    ],
-    "c": 0,
-    "s": "La deviazione standard è la radice quadrata della varianza."
-  },
-  {
-    "q": "La probabilità è sempre compresa tra:",
-    "a": [
-      "-1 e 1",
-      "0 e 1",
-      "0 e 100",
-      "-∞ e +∞"
-    ],
-    "c": 1,
-    "s": "La probabilità varia tra 0 e 1."
-  },
-  {
     "q": "Una variabile casuale è:",
     "a": [
-      "Una funzione che associa numeri agli esiti di un esperimento",
-      "Un grafico",
-      "Una media",
-      "Una tabella"
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
     ],
     "c": 0,
-    "s": "Una variabile casuale associa numeri agli esiti di un esperimento."
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
   },
   {
-    "q": "La distribuzione normale è:",
+    "q": "La mediana è:",
     "a": [
-      "Asimmetrica",
-      "A campana",
-      "Uniforme",
-      "Casuale"
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
     ],
-    "c": 1,
-    "s": "La distribuzione normale ha forma a campana."
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
   },
   {
     "q": "Il campionamento serve a:",
     "a": [
-      "Analizzare l'intera popolazione",
-      "Selezionare un sottoinsieme della popolazione",
-      "Calcolare la media",
-      "Trovare la moda"
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
     ],
-    "c": 1,
-    "s": "Il campionamento seleziona un sottoinsieme della popolazione."
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
   },
   {
-    "q": "Un intervallo di confidenza indica:",
+    "q": "Un intervallo di confidenza rappresenta:",
     "a": [
-      "Un valore esatto",
-      "Un intervallo di valori plausibili per un parametro",
-      "La moda",
-      "La probabilità nulla"
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
     ],
-    "c": 1,
-    "s": "L'intervallo di confidenza fornisce un range plausibile per un parametro."
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La mediana è:",
+    "a": [
+      "valore centrale",
+      "media",
+      "moda",
+      "somma"
+    ],
+    "c": 0,
+    "s": "il valore centrale di una distribuzione ordinata"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "Il campionamento serve a:",
+    "a": [
+      "sottoinsieme popolazione",
+      "intera popolazione",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "selezionare un sottoinsieme della popolazione"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "Una variabile casuale è:",
+    "a": [
+      "funzione esiti",
+      "grafico",
+      "tabella",
+      "media"
+    ],
+    "c": 0,
+    "s": "una funzione che associa numeri agli esiti di un esperimento"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La deviazione standard è:",
+    "a": [
+      "radice della varianza",
+      "somma dati",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "la radice quadrata della varianza"
+  },
+  {
+    "q": "La moda di un insieme di dati rappresenta:",
+    "a": [
+      "valore più frequente",
+      "media",
+      "mediana",
+      "varianza"
+    ],
+    "c": 0,
+    "s": "il valore più frequente"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La distribuzione normale ha forma:",
+    "a": [
+      "a campana",
+      "uniforme",
+      "casuale",
+      "asimmetrica"
+    ],
+    "c": 0,
+    "s": "a campana"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "La media aritmetica di 2,4,6,8 è:",
+    "a": [
+      "somma/numero",
+      "valore massimo",
+      "valore minimo",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "somma dei valori divisa per il numero di osservazioni"
+  },
+  {
+    "q": "La varianza misura:",
+    "a": [
+      "dispersione dei dati",
+      "media",
+      "probabilità",
+      "frequenza"
+    ],
+    "c": 0,
+    "s": "la dispersione dei dati"
+  },
+  {
+    "q": "Un intervallo di confidenza rappresenta:",
+    "a": [
+      "range plausibile",
+      "valore esatto",
+      "media",
+      "moda"
+    ],
+    "c": 0,
+    "s": "un intervallo plausibile per un parametro"
+  },
+  {
+    "q": "La probabilità è sempre compresa tra:",
+    "a": [
+      "0 e 1",
+      "0 e 100",
+      "-1 e 1",
+      "1 e 10"
+    ],
+    "c": 0,
+    "s": "0 e 1"
   }
 ]
