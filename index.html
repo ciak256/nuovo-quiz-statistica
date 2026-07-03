@@ -1,15 +1,33 @@
 <!DOCTYPE html>
-<html>
+<html lang="it">
 <head>
 <meta charset="UTF-8">
-<title>Quiz Statistica Pegaso</title>
-<link rel="stylesheet" href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz Statistica</title>
+
+<style>
+body { font-family: Arial; padding: 20px; }
+.card { max-width: 600px; margin: auto; }
+button { display:block; margin:10px 0; padding:10px; width:100%; }
+#progress { margin-bottom: 10px; }
+</style>
 </head>
+
 <body>
 
-<div class="chat">
-  <div class="header">📊 Statistica Pegaso</div>
-  <div id="chat" class="messages"></div>
+<div class="card">
+
+<h2>📊 Quiz Statistica</h2>
+<div id="progress"></div>
+
+<h3 id="question">Caricamento...</h3>
+
+<div id="answers"></div>
+
+<button onclick="next()">➡️ Prossima</button>
+
+<h3 id="score"></h3>
+
 </div>
 
 <script src="script.js"></script>
